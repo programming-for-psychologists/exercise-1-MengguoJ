@@ -14,3 +14,8 @@ win.flip()
 core.wait(1)
 
 sys.exit()
+
+
+"""
+square.setFillColor('red')
+"""

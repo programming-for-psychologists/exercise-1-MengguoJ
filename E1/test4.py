@@ -19,3 +19,15 @@ for i in range(3):
     core.wait(1)
 
 sys.exit()
+
+
+"""
+win =
+square =
+
+for i in ['blue', 'red']*3:
+    square.setFillColor(i)
+    square.draw()
+    win.flip
+    core.wait(1)
+"""

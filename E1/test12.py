@@ -35,3 +35,21 @@ while True:
         core.wait(1/60)
 
 sys.exit()
+
+
+
+"""
+win =
+left_square =
+right_sqaure =
+
+While True:
+    left_square.draw()
+    right_sqaure.draw()
+    left_square.ori += 6
+    right_sqaure.ori += 6
+    win.flip()
+
+win.close()
+sys.exit()
+"""
